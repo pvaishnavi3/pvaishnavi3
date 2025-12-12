@@ -10,8 +10,7 @@
 💡 Skilled in **Python, Django, JavaScript, SQL**  
 🎨 Strong foundation in **HTML, CSS, Web Design & UI Development**  
 🧩 Experience in full-stack applications & real-time systems  
-🌱 Currently improving skills in **Backend Development, APIs & Cloud**  
-🔥 Love turning ideas into practical, working web applications  
+🌱 Currently improving skills in **Backend Development, APIs & Cloud**   
 
 ---
 
